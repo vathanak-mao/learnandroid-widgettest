@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Widget Test</string>
+
+    <string-array name="spinner_values">
+        <item>Orange</item>
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Banana</item>
+    </string-array>
+</resources>
