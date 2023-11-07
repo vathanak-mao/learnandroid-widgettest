@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Spinner;
 
-public class SprinnerTestActivity extends AppCompatActivity {
+public class SpinnerTestActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
