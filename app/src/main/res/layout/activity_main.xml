@@ -6,9 +6,9 @@
     android:gravity="center">
 
     <Button
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:drawableLeft="@drawable/android"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:drawableTop="@drawable/android_icon"
         android:text="OK"
         android:onClick="onButtonClicked"/>
 </LinearLayout>
