@@ -13,7 +13,7 @@ public class ImageViewTestActivity extends AppCompatActivity {
         setContentView(R.layout.activity_image_view_test);
 
         ImageView photo = findViewById(R.id.imageview);
-        int imageId = R.drawable.banana;
+        int imageId = R.drawable.android;
         photo.setImageResource(imageId);
         photo.setContentDescription("This is bananas.");
     }
