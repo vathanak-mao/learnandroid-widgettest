@@ -1,19 +1,17 @@
 package com.hfad.widgettest;
 
-import static android.webkit.ConsoleMessage.MessageLevel.LOG;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class ButtonTestActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_button_test);
     }
 
     public void onButtonClicked(View view) {

@@ -21,10 +21,10 @@
             android:name=".HandleOnClickProgrammaticallyActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ImageViewTestActivity"
             android:exported="false" />
         <activity
-            android:name=".ImageViewTestActivity"
+            android:name=".ButtonTestActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
