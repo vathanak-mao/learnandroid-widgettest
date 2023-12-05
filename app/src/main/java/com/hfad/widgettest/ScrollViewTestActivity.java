@@ -1,16 +1,11 @@
 package com.hfad.widgettest;
 
-import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;
-import static com.hfad.widgettest.R.drawable.android_button;
-
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.ActionBar;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 public class ScrollViewTestActivity extends AppCompatActivity {

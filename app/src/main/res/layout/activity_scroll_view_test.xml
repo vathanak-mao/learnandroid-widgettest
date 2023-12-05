@@ -8,6 +8,8 @@
         android:layout_height="match_parent"
         android:padding="16dp"
         android:id="@+id/linearlayout"
-        android:orientation="vertical"/>
+        android:orientation="vertical">
+
+    </LinearLayout>
 
 </ScrollView>
